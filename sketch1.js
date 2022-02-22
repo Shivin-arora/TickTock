@@ -21,7 +21,7 @@ function draw() {
 
   fill("white");
   strokeWeight(10);
-  textSize(30);
+  textSize(20);
   text("Hour: "+hr%12,50,100);
   text("Minute: "+mn,50,120);
   text("Second: "+sc,50,140);
